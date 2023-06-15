@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.li-element2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding-right: 20px;
+}
+.li-op2 {
+  display: flex;
+}
+.currency-logo {
+  height: 28px;
+  width: 28px;
+}
+.para3 {
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+  margin-left: 20px;
+}
+.para2 {
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+  margin: 10px;
+}

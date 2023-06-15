@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.main-container {
+  padding: 30px;
+  background-color: black;
+  height: 100vh;
+}
+.load {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+.crypto-currency-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid orange;
+}
+.head {
+  color: aqua;
+  font-size: 26px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.crypt-image {
+  height: 200px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+.list-container {
+  border: 8px;
+  border: 2px solid lightseagreen;
+  width: 600px;
+  border-radius: 8px;
+  list-style-type: none;
+}
+.li-element {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding-right: 20px;
+}
+.li-op {
+  display: flex;
+}
+.para {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 10px;
+}
